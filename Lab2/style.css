@@ -1,0 +1,31 @@
+.phone {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 120px;
+    height: 200px;
+    background-color: greenyellow;
+    border-radius: 20px;
+}
+
+.screen {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100px;
+    height: 50px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 16pt;
+}
+
+.button {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 20px;
+    height: 20px;
+    background-color: darkslateblue;
+    border-radius: 50%;
+}
