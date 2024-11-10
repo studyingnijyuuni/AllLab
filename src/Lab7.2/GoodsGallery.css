@@ -1,0 +1,16 @@
+.product-gallery{
+    display: flex;
+    flex-direction: row;
+}
+
+.goods-card {
+    border: 1px solid grey;
+    padding: 16px;
+    width: 150px;
+    text-align: center;
+}
+
+.goods-card img{
+    width: 150px;
+    height: 150px;
+}
