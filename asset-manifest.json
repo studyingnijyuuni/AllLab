@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AllLab/Lab7/static/css/main.5ae99133.css",
+    "main.js": "/AllLab/Lab7/static/js/main.d29b0121.js",
+    "static/js/453.faafeb89.chunk.js": "/AllLab/Lab7/static/js/453.faafeb89.chunk.js",
+    "static/media/buta.jpg": "/AllLab/Lab7/static/media/buta.bfa4d1d890e663a54de9.jpg",
+    "static/media/eggs.jpg": "/AllLab/Lab7/static/media/eggs.bffa27c62d6895c6174f.jpg",
+    "static/media/bolty.svg": "/AllLab/Lab7/static/media/bolty.fd3c8d582b991a5903847adba1ee80a8.svg",
+    "static/media/abrams.jpg": "/AllLab/Lab7/static/media/abrams.9d1f2e9fdc872e43109d.jpg",
+    "static/media/toipape.jpg": "/AllLab/Lab7/static/media/toipape.889e518e6c2671f93578.jpg",
+    "static/media/bublyk.jpg": "/AllLab/Lab7/static/media/bublyk.804d24c545212c4205ec.jpg",
+    "index.html": "/AllLab/Lab7/index.html",
+    "main.5ae99133.css.map": "/AllLab/Lab7/static/css/main.5ae99133.css.map",
+    "main.d29b0121.js.map": "/AllLab/Lab7/static/js/main.d29b0121.js.map",
+    "453.faafeb89.chunk.js.map": "/AllLab/Lab7/static/js/453.faafeb89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ae99133.css",
+    "static/js/main.d29b0121.js"
+  ]
+}
